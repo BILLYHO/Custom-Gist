@@ -1,4 +1,4 @@
-##A Custom Highlight Style CSS file of Gist
+##A Customed Highlight Style CSS file of Gist
 
 ###Usage
 Include following code in the website:
