@@ -13,18 +13,18 @@
 .gist {color:#CCCCCC !important;}
 
 /*边框宽度 颜色*/
-.gist .gist-file {border:1px solid #2D2D2D !important;font-family:'Anonymous Pro','Droid Sans Mono','DejaVu Sans Mono',Monaco,Consolas,'Lucida Console',Courier,monospace !important;}
+.gist .gist-file {border:1px solid #272822 !important;font-family:'Anonymous Pro','Droid Sans Mono','DejaVu Sans Mono',Monaco,Consolas,'Lucida Console',Courier,monospace !important;}
 
 /*底部普通字体颜色 背景颜色*/
-.gist .gist-file .gist-meta {color:#666666 !important;background-color:#2D2D2D !important;}
+.gist .gist-file .gist-meta {color:#666666 !important;background-color:#272822 !important;}
 
 /*底部链接字体颜色*/
 .gist .gist-file .gist-meta a {color: #DDDDDD !important;}
 
 /*代码段与底部分割线宽度 颜色 代码段背景色*/
-.gist .gist-file .gist-data {border-bottom:1px solid #2D2D2D !important;background-color:#2D2D2D !important;}
+.gist .gist-file .gist-data {border-bottom:1px solid #272822 !important;background-color:#272822 !important;}
 .gist .gist-file .gist-data pre {font-family:'Anonymous Pro','Droid Sans Mono','DejaVu Sans Mono',Monaco,Consolas,'Lucida Console',Courier,monospace !important;}
-.gist .gist-file .gist-data .gist-line-numbers {color:#475B62 !important;border-right:1px solid #2D2D2D !important;background-color:#2D2D2D !important;}
+.gist .gist-file .gist-data .gist-line-numbers {color:#475B62 !important;border-right:1px solid #272822 !important;background-color:#272822 !important;}
 
 
 /*--------------------Token--------------------*/
@@ -154,15 +154,15 @@
 
 /*--------------------Comments--------------------*/
 /* Token type for any comment */
-.gist-syntax .c {color:#9933CC !important;} /* Comment */
+.gist-syntax .c {color:#75715E !important;} /* Comment */
 /* Token type for multiline comments */
 .gist-syntax .cm {color:#9933CC !important;} /* Comment.Multiline */
 /* Token type for preprocessor comments (also <?php/<% constructs)*//* #include */
-.gist-syntax .cp {color:#E5D068 !important;} /* Comment.Preproc */
+.gist-syntax .cp {color:#75715E !important;} /* Comment.Preproc */
 /* Token type for comments that end at the end of a line (e.g. # foo) */
-.gist-syntax .c1 {color:#9933CC !important;} /* Comment.Single */
+.gist-syntax .c1 {color:#75715E !important;} /* Comment.Single */
 /* Special data in comments. For example code tags, author and license information, etc */
-.gist-syntax .cs {color:#9933CC !important;} /* Comment.Special */
+.gist-syntax .cs {color:#75715E !important;} /* Comment.Special */
 
 
 /*--------------------Generic Tokens--------------------*/
